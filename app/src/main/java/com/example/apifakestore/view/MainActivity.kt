@@ -40,6 +40,9 @@ class MainActivity : AppCompatActivity(), OnProductClick {
 
         }
         initRecyclerView()
+        println("Hola Git")
+
+
 
 
     }
