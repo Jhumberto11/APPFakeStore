@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id cardviewProduct
+id constraintLayoutProduct
+id frameLayout
+id imageViewProduct
+id main
+id rvProducts
+id textViewProductName
+id tvCategorieProduct
+id tvDescriptionDialog
+id tvPriceProduct
+layout activity_main
+layout dialog_product
+layout item_products
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ApiFakeStore
+style Theme.ApiFakeStore
+xml backup_rules
+xml data_extraction_rules
